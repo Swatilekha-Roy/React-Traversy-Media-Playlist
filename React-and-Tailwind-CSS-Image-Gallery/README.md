@@ -1,4 +1,4 @@
-The search feature isn't working yet, I intend to get to that soon! Also, this project has been made by following Traversy Media's tutorial.
+*The search feature isn't working yet, I intend to get to that soon! Also, this project has been made by following Traversy Media's tutorial.*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
